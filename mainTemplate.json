@@ -200,7 +200,7 @@
     },
     "artifactsBaseUrl": {
       "type": "string",
-      "defaultValue": "http://bit.ly/2uTsrUF",
+      "defaultValue": "https://github.com/burtmianus/AzureFortigate",
       "metadata": {
         "description": "Base URL of the solution template gallery package",
         "artifactsBaseUrl": ""
